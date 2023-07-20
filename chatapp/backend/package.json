@@ -1,0 +1,24 @@
+{
+  "name": "lets-be-friends",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon backend/server.js"
+  },
+  "author": "renu singh",
+  "license": "ISC",
+  "dependencies": {
+    "@chakra-ui/react": "^2.7.1",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "axios": "^1.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "framer-motion": "^10.12.18",
+    "mongoose": "^7.3.3",
+    "nodemon": "^3.0.1",
+    "react-router-dom": "^5.3.4"
+  }
+}
